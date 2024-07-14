@@ -25,6 +25,7 @@ const Multas = () => {
       alert('Erro ao cadastrar multa: ' + error.message);
     }
   };
+  
 
   return (
     <div className="container">
